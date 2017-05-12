@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+}
+
+.testing {
+  width: percentage(5/7);
+}
+
+#footer {
+  border: {
+    width: 1px;
+    color: #ccc;
+    style: solid;
+  }
+}
